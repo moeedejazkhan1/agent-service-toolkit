@@ -81,7 +81,7 @@ The repository is structured as follows:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/JoshuaC215/agent-service-toolkit.git
+   git clone https://github.com/moeedejazkhan1/agent-service-toolkit.git
    cd agent-service-toolkit
    ```
 
